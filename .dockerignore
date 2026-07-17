@@ -1,0 +1,15 @@
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+README.md
+.next
+.git
+.github
+.env*
+!.env.example
+playwright-report
+test-results
+tests
+playwright.config.ts
+tmp-*.log
