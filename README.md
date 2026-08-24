@@ -1,6 +1,6 @@
 # Next Bun Kit
 
-[![npm version](https://img.shields.io/npm/v/%40boyeep%2Fnext-bun-kit)](https://www.npmjs.com/package/@boyeep/next-bun-kit) [![npm downloads](https://img.shields.io/npm/dm/%40boyeep%2Fnext-bun-kit)](https://www.npmjs.com/package/@boyeep/next-bun-kit) [![license](https://img.shields.io/github/license/Boyeep/next-bun-kit)](https://github.com/Boyeep/next-bun-kit/blob/main/LICENSE)
+[![npm version](https://img.shields.io/npm/v/%40boyeep%2Fnext-bun-kit)](https://www.npmjs.com/package/@boyeep/next-bun-kit) [![npm downloads](https://img.shields.io/npm/dm/%40boyeep%2Fnext-bun-kit)](https://www.npmjs.com/package/@boyeep/next-bun-kit) [![license](https://img.shields.io/npm/l/%40boyeep%2Fnext-bun-kit)](https://www.npmjs.com/package/@boyeep/next-bun-kit)
 
 Create a project directly from npm:
 
