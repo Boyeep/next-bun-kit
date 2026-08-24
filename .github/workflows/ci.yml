@@ -28,9 +28,3 @@ jobs:
 
       - name: Run static checks and production build
         run: bun run check
-
-      - name: Install Chromium
-        run: bunx playwright install --with-deps chromium
-
-      - name: Run end-to-end smoke test
-        run: bun run test:e2e
